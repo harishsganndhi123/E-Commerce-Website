@@ -17,7 +17,7 @@
     "nodemon": "^2.0.19",
     "npm": "^8.17.0",
     "uuid": "^8.3.2",
-    "node":"19.6.1",
+    "node":"^19.6.1",
   },
   "name": "projbackend",
   "version": "1.0.0",
